@@ -26,3 +26,17 @@ If you have any questions or comments, please don’t hesitate to get in touch.
 <br />18 West 18th St.
 <br />7th Floor
 <br />New York, NY 10011
+
+**Admissions**: <admissions@flatironschool.com>
+
+**Student Services**: <studentservices@flatironschool.com>
+
+**Educational Coaching**: <edcoaching@flatironschool.com>
+
+**Career Services**: <coaching@flatironschool.com>
+
+**Online Instructional Team (Cohort Leads)**: <fullstack@flatironschool.com>
+
+**General Technical Support not related to the curriculum**: <support@learn.co>
+
+**Student Complaints**: <studentrelations@flatironschool.com>
