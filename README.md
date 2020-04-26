@@ -1,15 +1,28 @@
-# How to Get Help
+# Important Policies and Points of Contact
 
-# Help.learn.co
-A collection of help articles, with advice and answers to frequently asked questions from the Flatiron School Team: [help.learn.co](https://help.learn.co/en/)
+# Flatiron Catalog
 
-# “Ask A Question” Button (AAQ)
-Ask A Question is Flatiron School’s live support for online students. Ask A Question is staffed by Technical Coaches – former graduates who are familiar with the curriculum and ready to help you debug your code and other technical issues. You can also answer other student questions, and are encouraged to do so!
+It’s important that you take time to review the details and policies outlined in the Flatiron School Catalog, which can be viewed by clicking on “View the full United states catalog” here: [https://flatironschool.com/north-america-regulatory-information/](https://flatironschool.com/north-america-regulatory-information/). A few important sections to review are: 
 
-Support from Technical Coaches includes text chat for simple questions and up to a 20 minute pair programming session for more complex cases. While not all issues may be resolved in 20 minutes, we’ve found that, on average, it’s enough time to get you moving again and keep wait times to a minimum for everyone.
+**Graduation Requirements**: See the  “Program Completion” section in the Flatiron School Catalog.
 
-We use the Socratic Method on AAQ - asking questions to help guide you to the answer - instead of telling you what to do or giving you the answer. This approach helps students learn and retain information better, as well as making them more adept at debugging on their own. Trust this process.
+**Student Conduct and Plagiarism Policy**: See the “Student Conduct Policies” section in the Flatiron School Catalog for information about the Code of Conduct and Plagiarism Policy
 
-Technical Coaches provide support Monday through Friday, 9AM to 1AM ET, and Saturday and Sunday, 9AM to 12AM ET, except for holidays. 
+**Program Changes**: See the “Program Changes” section in the Flatiron School Catalog for information about student-initiated and program-initiated program changes
 
-You can find more information about Ask A Question and the Technical Coaches in the [Learn.co Help Center](https://help.learn.co/en/).
+**Leaves of Absence**: See the “Leaves of Absence” section in the Flatiron School Catalog for information about pausing enrollment for a Leave of Absence.
+
+If you have any questions or comments, please don’t hesitate to get in touch.
+
+# Contact Information
+
+*PHONE*
+<br />1-888-958-0569
+
+*EMAIL*
+<br />**General questions**: <info@flatironschool.com>
+
+*ADDRESS*
+<br />18 West 18th St.
+<br />7th Floor
+<br />New York, NY 10011
