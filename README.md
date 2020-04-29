@@ -2,7 +2,7 @@
 
 # Flatiron Catalog
 
-It’s important that you take time to review the details and policies outlined in the Flatiron School Catalog, which can be viewed by clicking on “View the full United states catalog” here: [https://flatironschool.com/north-america-regulatory-information/](https://flatironschool.com/north-america-regulatory-information/). A few important sections to review are: 
+It’s important that you take time to review the details and policies outlined in the Flatiron School Catalog, which can be viewed by clicking on “View the full United States catalog” here: [https://flatironschool.com/north-america-regulatory-information/](https://flatironschool.com/north-america-regulatory-information/). A few important sections to review are: 
 
 **Graduation Requirements**: See the  “Program Completion” section in the Flatiron School Catalog.
 
