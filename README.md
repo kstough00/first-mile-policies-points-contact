@@ -8,6 +8,8 @@ It’s important that you take time to review the details and policies outlined 
 
 **Student Conduct and Plagiarism Policy**: See the “Student Conduct Policies” section in the Flatiron School Catalog for information about the Code of Conduct and Plagiarism Policy
 
+**Satisfactory Academic Progress**: See the “Satisfactory Academic Progress” section in the Flatiron School Catalog.
+
 **Program Changes**: See the “Program Changes” section in the Flatiron School Catalog for information about student-initiated and program-initiated program changes
 
 **Leaves of Absence**: See the “Leaves of Absence” section in the Flatiron School Catalog for information about pausing enrollment for a Leave of Absence.
